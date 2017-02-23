@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Test-method Suite]" parallel="methods">
+  <test name="Test-method test(failed)" parallel="methods">
+    <classes>
+      <class name="com.regression.membership.Main">
+        <methods>
+          <include name="setUp"/>
+          <include name="main"/>
+          <include name="detailDeal"/>
+        </methods>
+      </class> <!-- com.regression.membership.Main -->
+    </classes>
+  </test> <!-- Test-method test(failed) -->
+</suite> <!-- Failed suite [Test-method Suite] -->

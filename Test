@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppiumAUT>
+    <UIAApplication name="위메프" label="위메프" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0" x="0" y="0" width="375" height="667">
+        <UIAWindow name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0" x="0" y="0" width="375" height="667">
+            <UIANavigationBar name="주문/결제하기" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/0" x="0" y="20" width="375" height="44">
+                <UIAButton name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/0/0" x="-2" y="20" width="0" height="44">
+                </UIAButton>
+                <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/0/1" x="0" y="0" width="375" height="64">
+                    <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/0/1/0" x="0" y="64" width="375" height="0">
+                    </UIAImage>
+                </UIAImage>
+                <UIAButton name="뒤로" label="뒤로" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/0/2" x="8" y="31.5" width="21" height="21">
+                </UIAButton>
+                <UIAStaticText name="주문/결제하기" label="주문/결제하기" value="주문/결제하기" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/0/3" x="138" y="29" width="99.5" height="27">
+                </UIAStaticText>
+                <UIAButton name="btn 1depth close" label="btn 1depth close" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/0/4" x="335" y="20" width="42" height="44">
+                </UIAButton>
+            </UIANavigationBar>
+            <UIAImage name="img_depth_shadow" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/1" x="0" y="64" width="375" height="5">
+            </UIAImage>
+            <UIAScrollView name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/2" x="0" y="64" width="375" height="603">
+                <UIAWebView name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0" x="0" y="63" width="375" height="856">
+                    <UIAImage name="" label="" value="1" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/0" x="0" y="69" width="51" height="37">
+                    </UIAImage>
+                    <UIAStaticText name="신용카드" label="신용카드" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/1" x="227" y="75" width="68" height="22">
+                    </UIAStaticText>
+                    <UIAImage name="진행중" label="진행중" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/2" x="0" y="109" width="375" height="175">
+                    </UIAImage>
+                    <UIAStaticText name="ISP" label="ISP" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/3" x="66" y="297" width="22" height="18">
+                    </UIAStaticText>
+                    <UIAStaticText name="가 설치된 경우" label="가 설치된 경우" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/4" x="87" y="297" width="89" height="18">
+                    </UIAStaticText>
+                    <UIAStaticText name="[확인]" label="[확인]" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/5" x="175" y="297" width="39" height="18">
+                    </UIAStaticText>
+                    <UIAStaticText name="버튼을 터치하여" label="버튼을 터치하여" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/6" x="213" y="297" width="96" height="18">
+                    </UIAStaticText>
+                    <UIAStaticText name="결제를 진행해주시기 바랍니다." label="결제를 진행해주시기 바랍니다." value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/7" x="97" y="314" width="181" height="18">
+                    </UIAStaticText>
+                    <UIALink name="ISP 설치하기" label="ISP 설치하기" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/8" x="27" y="354" width="321" height="19">
+                    </UIALink>
+                    <UIALink name="모바일 ISP 실행" label="모바일 ISP 실행" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/9" x="136" y="393" width="97" height="19">
+                        <UIAStaticText name="모바일 ISP 실행" label="모바일 ISP 실행" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/9/0" x="136" y="393" width="97" height="19">
+                        </UIAStaticText>
+                    </UIALink>
+                    <UIAButton name="취소" label="취소" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/10" x="104" y="454" width="81" height="41">
+                    </UIAButton>
+                    <UIAButton name="확인" label="확인" value="" dom="[object Object]" enabled="true" valid="true" visible="true" hint="" path="/0/0/2/0/11" x="191" y="454" width="81" height="41">
+                    </UIAButton>
+                    <UIAStaticText name="NHN KCP Corp." label="NHN KCP Corp." value="" dom="[object Object]" enabled="true" valid="true" visible="false" hint="" path="/0/0/2/0/12" x="143" y="731" width="89" height="18">
+                    </UIAStaticText>
+                </UIAWebView>
+                <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/2/1" x="369.5" y="67" width="2.5" height="597">
+                </UIAImage>
+                <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/2/2" x="3" y="661.5" width="369" height="2.5">
+                </UIAImage>
+            </UIAScrollView>
+            <UIAStaticText name="주문을 처리중입니다." label="주문을 처리중입니다." value="주문을 처리중입니다." dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/3" x="0" y="312.40000000000003" width="375" height="21">
+            </UIAStaticText>
+            <UIAActivityIndicator name="진행 일시 정지됨" label="진행 일시 정지됨" value="0" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4" x="169" y="316" width="37" height="37">
+                <UIAImage name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/0/4/0" x="169" y="316" width="37" height="37">
+                </UIAImage>
+            </UIAActivityIndicator>
+        </UIAWindow>
+        <UIAWindow name="" label="" value="" dom="" enabled="true" valid="true" visible="false" hint="" path="/0/1" x="0" y="0" width="375" height="667">
+        </UIAWindow>
+        <UIAWindow name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/2" x="0" y="0" width="375" height="667">
+            <UIAStatusBar name="" label="" value="" dom="" enabled="true" valid="true" visible="true" hint="" path="/0/2/0" x="0" y="0" width="375" height="20">
+                <UIAElement name="총 5개 중에서 5개의 막대, 신호 강도" label="총 5개 중에서 5개의 막대, 신호 강도" value="" dom="" enabled="true" valid="true" visible="true" hint="알림 센터를 표시하려면, 세 손가락으로 아래로 쓸어내리십시오., 제어 센터를 표시하려면, 세 손가락으로 위로 쓸어올리십시오., 상단으로 스크롤하려면 이중 탭하십시오." path="/0/2/0/0" x="6" y="0" width="35" height="20">
+                </UIAElement>
+                <UIAElement name="KT 네트워크" label="KT 네트워크" value="" dom="" enabled="true" valid="true" visible="true" hint="알림 센터를 표시하려면, 세 손가락으로 아래로 쓸어내리십시오., 제어 센터를 표시하려면, 세 손가락으로 위로 쓸어올리십시오., 상단으로 스크롤하려면 이중 탭하십시오." path="/0/2/0/1" x="44" y="0" width="16" height="20">
+                </UIAElement>
+                <UIAElement name="LTE" label="LTE" value="SSID" dom="" enabled="true" valid="true" visible="true" hint="알림 센터를 표시하려면, 세 손가락으로 아래로 쓸어내리십시오., 제어 센터를 표시하려면, 세 손가락으로 위로 쓸어올리십시오., 상단으로 스크롤하려면 이중 탭하십시오." path="/0/2/0/2" x="69" y="0" width="17" height="20">
+                </UIAElement>
+                <UIAElement name="오후 6:06" label="오후 6:06" value="" dom="" enabled="true" valid="true" visible="true" hint="알림 센터를 표시하려면, 세 손가락으로 아래로 쓸어내리십시오., 제어 센터를 표시하려면, 세 손가락으로 위로 쓸어올리십시오., 상단으로 스크롤하려면 이중 탭하십시오." path="/0/2/0/3" x="163" y="0" width="52" height="20">
+                </UIAElement>
+                <UIAElement name="Bluetooth 켬" label="Bluetooth 켬" value="" dom="" enabled="true" valid="true" visible="true" hint="알림 센터를 표시하려면, 세 손가락으로 아래로 쓸어내리십시오., 제어 센터를 표시하려면, 세 손가락으로 위로 쓸어올리십시오., 상단으로 스크롤하려면 이중 탭하십시오." path="/0/2/0/4" x="323" y="0" width="8" height="20">
+                </UIAElement>
+                <UIAElement name="100%의 배터리 전원, 충전 중" label="100%의 배터리 전원, 충전 중" value="" dom="" enabled="true" valid="true" visible="true" hint="알림 센터를 표시하려면, 세 손가락으로 아래로 쓸어내리십시오., 제어 센터를 표시하려면, 세 손가락으로 위로 쓸어올리십시오., 상단으로 스크롤하려면 이중 탭하십시오." path="/0/2/0/5" x="337" y="0" width="33" height="20">
+                </UIAElement>
+            </UIAStatusBar>
+        </UIAWindow>
+    </UIAApplication>
+</AppiumAUT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test-method Suite" parallel="methods" thread-count="2" >
+  <test name="Test-method test" group-by-instances="true">
+    <classes>
+        
+	  <!-- 상품구매 -->
+      <class name="com.regression.buy.Main" />
+      
+	  <!-- 회원가입 --> 
+      <class name="com.regression.membership.Main"/>
+      
+	  <!-- 마이페이지 -->
+	  <class name="com.regression.mypage.Main"/>
+	      
+    </classes>
+  </test>
+</suite>
