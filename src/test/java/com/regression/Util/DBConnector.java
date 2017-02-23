@@ -141,7 +141,7 @@ public class DBConnector {
 	public static Connection getConnection() throws Exception {
 		try {
 			String driver = "com.mysql.jdbc.Driver";
-			String url = "jdbc:mysql://10.102.20.135:3306/faultlocalization";
+			String url = "jdbc:mysql://localhost/faultlocalization";
 			String username = "root";
 			String password = "1q2w3e";
 			Class.forName(driver);
