@@ -5,4 +5,4 @@ APPIUM Test Script
 
 - Monitoring System 
 
-./img/monitoring.png
+![Screenshot](./img/monitoring.png)
